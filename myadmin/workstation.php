@@ -1,3 +1,5 @@
+<!-- we have to add session_start in order to use session var in the handle function in the aside (aside fixed on all pages, you need add seession_start if u need include aside --> 
+<?php session_start(); ?>
 <?php include 'includes/delet_device.php'; ?>
 <?php include 'includes/header.php'; ?>
 
