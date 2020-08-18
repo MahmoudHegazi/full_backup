@@ -5,7 +5,7 @@ register, login, secuirty better than wuzzuf.com at least don't have bug their w
 
 
 #  big note
-<!-- we have to add session_start in order to use session var in the handle function in the aside (aside fixed on all pages, you need add seession_start if u need include aside --> 
+ we have to add session_start in order to use session var in the handle function in the aside (aside fixed on all pages, you need add seession_start if u need include aside  
 
 ```python
 حاجات ناقصه
