@@ -7,6 +7,9 @@ register, login, secuirty better than wuzzuf.com at least don't have bug their w
 حاجات ناقصه
 عكس ال redirect في حالة login  
 لو مش لوجون رجعه علي login page
-لو login وديه علي index 
-وميعملش اكسس علي register and login 
+-
+لو login وديه علي index
+* 
+وميعملش اكسس علي register and login
+* 
 وهو عامل Login 
